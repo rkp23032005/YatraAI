@@ -2,6 +2,10 @@
 
 > *Your intelligent, AI-powered companion for crafting breathtaking journeys across Incredible India.*
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-black?style=for-the-badge&logo=vercel)](https://yatra-ai-navy.vercel.app/)
+
+🔗 **Live App:** [https://yatra-ai-navy.vercel.app/](https://yatra-ai-navy.vercel.app/)
+
 ![YatraAI Banner](https://images.unsplash.com/photo-1524492412937-b28074a5d7da?auto=format&fit=crop&w=1200&q=80)
 
 ---
