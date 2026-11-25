@@ -15,9 +15,10 @@ dist-ssr
 .env.local
 .env.*.local
 
-# Redundant unpack artifacts
+# Redundant unpack artifacts and local history
 __MACOSX
 yatraai---smart-india-travel-planner (3)/
+.brud/
 
 # Editor directories and files
 .vscode/*
